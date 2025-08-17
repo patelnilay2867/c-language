@@ -1,0 +1,11 @@
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore executables
+a.out
+*.exe
+
+# Ignore other C build artifacts
+*.out
+*.elf
